@@ -1,0 +1,22 @@
+{
+  "name": "portfolio2",
+  "version": "1.0.0",
+  "description": "A portfolio using React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spzweifel/Portfolio2.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Sean Z",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spzweifel/Portfolio2/issues"
+  },
+  "homepage": "https://github.com/spzweifel/Portfolio2#readme"
+}
